@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation <a name="motivation"></a>
 
-This is ... project. I was interestested in using ... data to better understand:
+This is the Udacity experiment design project. I was interestested in using ... data to better understand:
 
 1. Q1
 2. Q2
