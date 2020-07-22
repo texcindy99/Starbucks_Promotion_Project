@@ -22,9 +22,7 @@ This is the Udacity experiment design project. I was interestested in using ... 
 
 There is one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There are ... data files used in the notebook. "..." is the data file for... .
-
-The data file is available at [website](http://....).
+There are two data files used in the notebook. "training.csv" is the file for taining data and "Test.csv" is the file for test data.
 
 ## Results <a name="results"></a>
 
