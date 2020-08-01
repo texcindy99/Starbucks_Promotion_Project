@@ -12,10 +12,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation <a name="motivation"></a>
 
-This is the Udacity experiment design project. I was interestested in using ... data to better understand:
+This is the Udacity experiment design project. I was interestested in using Starbucks promotion experiment data to estimate:
 
-1. Q1
-2. Q2
+1. If the promotion is effective to increase customer purchases
+2. If the promotion is effective to increase Starbucks profit
 3. Q3
 
 ## File Descriptions <a name="files"></a>
