@@ -12,11 +12,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation <a name="motivation"></a>
 
-This is the Udacity experiment design project. I was interestested in using Starbucks promotion experiment data to estimate:
+This is the Udacity experiment design project. I was interestested in using Starbucks promotion experiment data to:
 
-1. If the promotion is effective to increase customer purchases
-2. If the promotion is effective to increase Starbucks profit
-3. Q3
+1. Analyze the results of the experiment and identify the effect of the Treatment on product purchase and Net Incremental Revenue;
+2. Build a model to select the best customers to target that maximizes the Incremental Response Rate and Net Incremental Revenue. 
 
 ## File Descriptions <a name="files"></a>
 
