@@ -28,8 +28,11 @@ There are two data files used in the notebook. "training.csv" is the file for ta
 Each data set has the same features as below:
 
 Treatment – Indicates if the customer was part of treatment or control
+
 Purchase – Indicates if the customer purchased the product
+
 ID – Customer ID
+
 V1 to V7 – features of the customer
 
 ## Results <a name="results"></a>
