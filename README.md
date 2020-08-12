@@ -41,4 +41,4 @@ The main findings of the code is ....
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Must give credit to [Udacity data science nano degree course](https://www.udacity.com/course/data-scientist-nanodegree--nd025) for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](http://...).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to [Udacity data science nano degree course](https://www.udacity.com/course/data-scientist-nanodegree--nd025) and [Starbucks](https://www.starbucks.com/) for the data. 
