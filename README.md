@@ -38,6 +38,10 @@ V1 to V7 – features of the customer
 ## Results <a name="results"></a>
 
 The main findings of the code is ....
+After optimization:
+Your irr with this strategy is 0.0176.
+
+Your nir with this strategy is 110.55.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
