@@ -18,7 +18,7 @@ This is the Udacity experiment design project. I was interestested in using Star
 
 2. Build a model to select the best customers to target that maximizes the IRR (Incremental Response Rate) and NIR (Net Incremental Revenue), where
 
-   IRR = (# of Purchasers In Treated)/(Total # of customers in Treated)  - (# of Purchasers In Control)/(Total # of customers in Control) 
+   IRR = (# of Purchasers In Treated)/(Total # of customers in Treated)  - (# of Purchasers In Control)/(Total # of customers in Control), 
 
    NIR = [(# of Purchasers in Treated *$10) – (# of Treated Customers *$0.15)]  -  [# of Purchasers in Control * $10];
 
