@@ -15,7 +15,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 This is the Udacity experiment design project. I was interestested in using Starbucks promotion experiment data to:
 
 1. Analyze the results of the experiment and identify the effect of the Treatment on product purchase and Net Incremental Revenue;
-2. Build a model to select the best customers to target that maximizes the IRR (Incremental Response Rate) and NIR (Net Incremental Revenue);
+
+2. Build a model to select the best customers to target that maximizes the IRR (Incremental Response Rate) and NIR (Net Incremental Revenue), where 
+IRR = (# of Purchasers In Treated)/(Total # of customers in Treated)  - (# of Purchasers In Control)/(Total # of customers in Control) 
+NIR = [(# of Purchasers in Treated *$10) – (# of Treated Customers *$0.15)]  -  [# of Purchasers in Control * $10];
+
 3. Score the ‘Test.csv’ using the model and select the best customers for promotion.
 
 ## File Descriptions <a name="files"></a>
